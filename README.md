@@ -1,4 +1,5 @@
 # PPTKalem — PowerPoint COM Add-in Kalem Aracı
+<img width="1859" height="1057" alt="pen" src="https://github.com/user-attachments/assets/9053ca1f-198e-4511-a759-5f26583a82ef" />
 
 PowerPoint Desktop üzerinde hem düzenleme hem sunum modunda çalışan bir öğretmen çizim/kalem aracı.  
 **.NET COM Add-in** olarak çalışır — `regasm` ile kaydedilir, PowerPoint açılınca otomatik yüklenir.
