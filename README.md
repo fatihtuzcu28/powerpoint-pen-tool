@@ -5,7 +5,7 @@ Draw, highlight, and annotate slides in real-time with a smooth overlay system.
 
 ---
 
-![banner](banner.png)
+![banner](banner1.png)
 
 ---
 
