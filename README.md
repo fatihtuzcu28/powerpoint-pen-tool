@@ -5,7 +5,7 @@ Draw, highlight, and annotate slides in real-time with a smooth overlay system.
 
 ---
 
-![banner](banner.png)
+![banner](/img/banner-2.png)
 
 ---
 
@@ -23,9 +23,9 @@ Draw, highlight, and annotate slides in real-time with a smooth overlay system.
 
 ## 🎥 Demo
 
-> Add a GIF here (very important)
 
-![demo](demo.gif)
+
+![demo](/img/demo.gif)
 
 ---
 
