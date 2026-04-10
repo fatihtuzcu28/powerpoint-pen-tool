@@ -17,13 +17,7 @@ Draw directly on slides with a smooth, fullscreen overlay experience.
 
 ---
 
-## 🎥 Demo
-
-> ⚠️ Add a GIF here (very important for visibility)
-
-![demo](demo.gif)
-
----
+--
 
 ## 🧠 How It Works
 
