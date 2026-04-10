@@ -101,9 +101,10 @@ git clone https://github.com/fatihtuzcu28/powerpoint-pen-tool.git
    - Pen / Highlighter / Eraser  
 5. Adjust settings from side panel  
 6. Use:
+   - `Ctrl + Shift + K` → Toggle pen toolbar  
    - `Ctrl + Z` → Undo  
    - `Ctrl + Y` → Redo  
-7. Click **Export to Slide** to save drawings  
+8. Click **Export to Slide** to save drawings  
 
 ---
 
