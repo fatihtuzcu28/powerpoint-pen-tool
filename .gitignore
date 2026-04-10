@@ -1,0 +1,24 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.ncb
+*.sdf
+*.opensdf
+
+# Inno Setup output
+installer_output/
+
+# Archives
+*.rar
+*.zip
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store

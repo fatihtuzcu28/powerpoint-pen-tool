@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui"
+          onLoad="Ribbon_Load">
+  <ribbon>
+    <tabs>
+      <tab id="tabKalem" label="PPTKalem">
+        <group id="grpToolbar" label="Araç Çubuğu">
+          <toggleButton id="btnOverlay"
+                        label="Araç Çubuğunu Göster"
+                        size="large"
+                        imageMso="DesignMode"
+                        onAction="OnToggleOverlay"
+                        getPressed="GetOverlayPressed" />
+        </group>
+        <group id="grpSettings" label="Ayarlar">
+          <toggleButton id="btnAutoShow"
+                        label="Sunumla Başlasın"
+                        screentip="Sunum başlayınca araç çubuğu otomatik açılsın"
+                        size="large"
+                        imageMso="SlideShowFromCurrent"
+                        onAction="OnToggleAutoShow"
+                        getPressed="GetAutoShowPressed" />
+          <toggleButton id="btnDarkTheme"
+                        label="Koyu Tema"
+                        screentip="Araç çubuğu için koyu / açık tema"
+                        size="large"
+                        imageMso="ThemesGallery"
+                        onAction="OnToggleDarkTheme"
+                        getPressed="GetDarkThemePressed" />
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
